@@ -13,3 +13,4 @@ The notable features this code includes is:
 * Utilization of Gson API
 * Creation and development of Maven Java file
 * Utilization of Java records
+* Utilization of Postman
